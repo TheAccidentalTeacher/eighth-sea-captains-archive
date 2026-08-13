@@ -2,7 +2,7 @@
 
 Modular static site. No build step — Netlify's build command stays EMPTY, publish directory is `site`.
 
-**Live:** _(filled after the Netlify import)_
+**Live:** https://eighth-sea-captains-archive.netlify.app
 
 A bright, modular, interactive reference for the original Crownwake privateer game and the source-audited research behind its design. It combines a playable encounter, ship comparator, conquest planner, career guide, version comparison, research library, and living world atlas.
 
